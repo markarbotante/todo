@@ -1,5 +1,5 @@
 {
-  "name": "api-microservice-template",
+  "name": "todo-microservice",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/markarbotante/restapi.git"
+    "url": "https://github.com/markarbotante/todo.git"
   },
   "author": "",
   "license": "ISC",
